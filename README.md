@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Here's a little bit about me. 
 
-BIO GOES HERE!
+I am a Front-End Software Engineer looking to connect with companies that share my passion for creating accessible applications, encourage personal and professional growth, and have a passion for an excellent UI/UX experience. 
 
-#### Let's connect
+The journey that led me here started with aspirations to become a wedding planner that evolved into a career path split between working in the oil and gas industry and marketing. After years of developing different professional skills and learning how I best contribute to a team I was drawn to Frontend engineering. I am excited to utilize my professional strengths and new skill set to shift my career to a React, Javascript, and CSS/HTML role with a strong interest in UI/UX. I am eager to learn more and look forward to any opportunity to ask questions, gain new insights, and contribute to a team with a goal to make people's experiences better.
+
+🙋🏼‍♀️ Let's connect!
 <p>
   <a href="https://www.linkedin.com/in/victoria-fox-collis/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a>
   <a href="mailto:victoriafoxc@gmail.com"><img alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -56,14 +57,14 @@ BIO GOES HERE!
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-Tools & Workflow:
+🛠 Tools & Workflow:
 
 ![Agile](https://img.shields.io/badge/AGILE%20-2A82E2.svg?&style=for-the-badge&logo=AGILE&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP%20-EDD016.svg?&style=for-the-badge&logo=OOP&logoColor=black)
   
-UX/UI
+✅ UX/UI
 
 ![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
 ![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=white)
