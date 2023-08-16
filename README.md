@@ -72,9 +72,3 @@ The journey that led me here started with aspirations to become a wedding planne
 ## Currently Learning
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
 
-## My Stats
-
-[![Victoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictoriaFC&hide=stars&show_icons=true&theme=radical)](https://github.com/VictoriaFC/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaFC&layout=compact&theme=radical)](https://github.com/VictoriaFC/github-readme-stats)
-
